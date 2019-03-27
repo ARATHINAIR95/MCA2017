@@ -3,7 +3,8 @@
 void main()
 {
 clrscr();
-printf("Helloworld")
+printf("Helloworld");
+printf("welcome to github.com");
 getch();
 }
 
